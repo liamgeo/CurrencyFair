@@ -5,7 +5,7 @@ The approach used to create this web application was initially to create a Sign 
 
 Profile page- displays the information the user inputted in a POST on the Sign Up page.
 
-Menu page- in which the user could select if they wanted to add a trading message or view a tradining message.
+Menu page- in which the user could select if they wanted to add a trading message or view a trading message.
 
 Inserting Trading message page- this page made use of a drop down box which the user could select what currency they would like to choose from. The $SESSION varibale was used again here to use an INSERT statement in SQL. Once the information had been inputted by the user and they selected the "Insert" button the current page would automatically reload displaying a "Trading Message Inserted". I felt this was a better alternative than creating a new page with displaying this message.
 
