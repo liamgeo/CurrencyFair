@@ -13,4 +13,4 @@ Viewing Trading message page- within this page it showed only the information th
 
 Logout page- This page was created to log the current user out.
 
-The relevant code can be accessed in the Main.
+The relevant code can be accessed in the Master.
